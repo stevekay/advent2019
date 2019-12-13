@@ -6,7 +6,13 @@ awk
 ````
 bash
 ````
-[steve@centos8 01]$ ./01.sh
+[steve@centos8 01]$ ./01.sh <input.txt
+3360301
+[steve@centos8 01]$
+````
+perl
+````
+[steve@centos8 01]$ ./01.pl <input.txt
 3360301
 [steve@centos8 01]$
 ````
