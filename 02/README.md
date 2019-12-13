@@ -1,6 +1,8 @@
 perl
 ````
-[steve@centos8 02]$ ./02.pl <input.txt
+[steve@centos8 02]$ ./part1.pl <input.txt
 3790689
+[steve@centos8 02]$ ./part2.pl <input.txt
+6533
 [steve@centos8 02]$
 ````
