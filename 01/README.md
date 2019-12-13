@@ -13,6 +13,6 @@ bash
 perl
 ````
 [steve@centos8 01]$ ./01.pl <input.txt
-3360301
+part1=3360301, part2=5037595
 [steve@centos8 01]$
 ````
